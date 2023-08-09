@@ -21,7 +21,7 @@ html {
 [class~=h4],
 [class~=h3],
 [class~=h1] {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .animation-horizontal:hover {
@@ -33,7 +33,7 @@ html {
 }
 
 body {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=h3],
@@ -233,7 +233,7 @@ h2,
 [class~=h5],
 [class~=h6],
 h1 {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 input[type=email] {
@@ -690,7 +690,7 @@ input[type=email] {
 }
 
 h3 {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=button] {
@@ -957,7 +957,7 @@ input[type=number],
 }
 
 h4 {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body[class~=home][class~=title-3] [class~=section] [class~=block-title] [class~=title-icon] svg {
@@ -1182,7 +1182,7 @@ input[type=number] {
 }
 
 h5 {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=button-outline][class~=button-white] {
@@ -1370,7 +1370,7 @@ input[type=password],
 }
 
 h6 {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 input[type=number] {
@@ -1651,7 +1651,7 @@ input[type=password] {
 }
 
 [class~=rating] [class~=star]:after {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 .select2-container {
@@ -2069,7 +2069,7 @@ ul.slick-dots li button {
 }
 
 [class~=rating] [class~=star]:before {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=button-outline][class~=border-black]:focus {
@@ -2321,7 +2321,7 @@ ul.slick-dots li button {
 }
 
 [class~=newsletter-popup] [class~=newsletter-container] [class~=newsletter-form] [class~=newsletter-title] [class~=title] {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body i[class~=slick-arrow] {
@@ -3815,7 +3815,7 @@ body[class~=home] [class~=section] [class~=block-title][class~=title-underline] 
 }
 
 body i[class~=slick-arrow] {
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=quantity] [class~=plus] {
@@ -4231,7 +4231,7 @@ textarea {
 
 [class~=star-rating],
 [class~=button-arrow]:after {
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
 }
 
 .pagination ul li a.prev:before {
@@ -4492,7 +4492,7 @@ body[class~=home][class~=title-3] [class~=section] [class~=block-title] h2 {
 }
 
 .pagination ul li a.prev:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 body[class~=home] [class~=section] [class~=block-title][class~=title-underline] [class~=title-right] a:after {
@@ -4565,7 +4565,7 @@ ul.slick-dots {
 }
 
 body[class~=home] [class~=section] [class~=block-title][class~=title-underline] [class~=title-right] a:after {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=cart-product-added] {
@@ -4713,7 +4713,7 @@ input::-webkit-outer-spin-button {
 }
 
 [class~=pagination] ul li a[class~=next]:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=back-top]:hover {
@@ -4753,7 +4753,7 @@ input::-webkit-inner-spin-button {
 }
 
 [class~=star-rating]:before {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=star-rating]:before {
@@ -5502,7 +5502,7 @@ button {
 }
 
 [class~=star-rating] span:before {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=pagination] ul li a {
@@ -5650,7 +5650,7 @@ body[class~=home][class~=title-7] [class~=section] [class~=block-title] h2 {
 }
 
 [class~=cart-product-added]>div:before {
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=cart-product-added]>div:before {
@@ -6003,7 +6003,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-header] [class~=header-mobile] [class~=navbar-toggle]:before {
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=form-login-register] [class~=box-content]>div[class~=active] [class~=login] {
@@ -6974,7 +6974,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-navigation] ul>li[class~=level-0][class~=menu-item-has-children]>a:after {
-  font-family: feather;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=mini-cart] [class~=cart-popup] [class~=mini-cart-item] a[class~=remove]:hover {
@@ -7343,7 +7343,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 
 [class~=site-navigation] ul>li[class~=level-0] ul[class~=sub-menu] li[class~=menu-item-has-children]>a:after,
 [class~=mini-cart] [class~=cart-popup] [class~=free-ship] [class~=total-percent] [class~=percent]:before {
-  font-family: feather;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=form-login-register] [class~=box-form-login] [class~=rememberme-lost] [class~=inline]:after {
@@ -7380,7 +7380,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-navigation] ul>li[class~=level-0]>a {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=mojuri-topcart][class~=dropdown] [class~=mini-cart][class~=show] [class~=cart-popup] {
@@ -9677,7 +9677,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-header] [class~=header-search-form] [class~=result-search-products][class~=loading]:before {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=site-header] [class~=header-search-form] [class~=search-from] {
@@ -10321,7 +10321,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=mini-cart] [class~=cart-popup] [class~=cart-list] li[class~=empty]:before {
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
 }
 
 .search-overlay .search-from .search-close {
@@ -11311,7 +11311,8 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 4. Breadcrumbs
 =========================================================================*/
 .site-main .page-title {
-  background-image: url("../../media/site-header.jpg");
+  background-repeat: no-repeat;
+  background-color: rgb(226, 224, 224);
 }
 
 .site-main .page-title,
@@ -11821,7 +11822,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 [class~=block-sliders] i[class~=slick-arrow][class~=fa-angle-left]:before {
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-sliders][class~=color-white] i[class~=slick-arrow] {
@@ -12104,11 +12105,44 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 .block-sliders .item-content .item-info.vertical-middle {
-  -webkit-transform: translateY(-50%);
+  /* -webkit-transform: translate(-50%); */
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding-left: 0;
+}
+.block-sliders .item-content .item-info.vertical-start {
+  /* -webkit-transform: translate(-50%); */
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  
+}
+@media screen and (min-width:800px) {
+  
+  .block-sliders .item-content .item-info.vertical-start {
+    /* -webkit-transform: translate(-50%); */
+    position: absolute;
+    left: 33%;
+    transform: translate(-50%,-50%);
+    padding-left: 0;
+    margin-left: 0;
+  }
 }
 
-.block-sliders .item-content .item-info.vertical-middle {
-  transform: translateY(-50%);
+.block-sliders .item-content .item-info.horizontal-center {
+  /* -webkit-transform: translate(-50%); */
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  padding-left: 0;
+}
+
+
+.block-sliders .item-content .item-info.vertical-middle #slide2{
+  
+  
+
 }
 
 [class~=block-products] ul[class~=products-list] li {
@@ -12176,6 +12210,8 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 
 .block-sliders .item-content .item-info.horizontal-center {
   justify-content: center;
+  align-items: center;
+  
 }
 
 [class~=block-product-cats] ul li a {
@@ -12187,7 +12223,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 [class~=block-sliders] i[class~=slick-arrow][class~=fa-angle-right]:before {
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-sliders.color-primary i.slick-arrow,
@@ -12269,7 +12305,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 [class~=block-sliders][class~=color-white] [class~=item-content] [class~=item-info] [class~=title-slider] {
-  color: #fff;
+  color: #000;
 }
 
 [class~=block-product-cats] ul li [class~=count] {
@@ -12314,7 +12350,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 .block-sliders .item-content .item-info .title-slider {
-  font-size: 60pt;
+  font-size: 36pt;
 }
 
 .block-sliders .item-content .item-info .title-slider {
@@ -12601,7 +12637,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 
 [class~=block-sliders][class~=layout-4] [class~=item-content] [class~=item-info] [class~=subtitle-slider],
 .block-sliders.layout-5 .item-content .item-info .subtitle-slider {
-  font-family: "Cormorant Garamond", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-banners][class~=layout-3] [class~=section-column][class~=right] [class~=block-widget-banner]:first-child [class~=banner-wrapper-infor] {
@@ -13535,7 +13571,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 [class~=block-lookbook] [class~=item-lookbook] [class~=number-lookbook]:before {
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-banners][class~=layout-2] [class~=block-widget-banner] [class~=banner-wrapper-infor],
@@ -14311,7 +14347,7 @@ body:not([class~=home]) [class~=site-navigation] ul>li[class~=level-0]>[class~=s
 }
 
 [class~=block-intro][class~=layout-4] [class~=nav-tabs] [class~=nav-item] a {
-  font-family: "Cormorant Garamond", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-product-filter ul.filter-items li:hover span {
@@ -15125,7 +15161,7 @@ body[class~=home][class~=title-2] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-product-cats] [class~=item-product-cat-content] [class~=product-cat-content-info] [class~=item-title] {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-banners][class~=layout-5] [class~=block-widget-banner] [class~=banner-wrapper-infor] [class~=info],
@@ -15329,7 +15365,7 @@ body[class~=home][class~=title-3] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-intro][class~=layout-2] [class~=intro-title] {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-intro.layout-4 .nav-tabs .nav-item a:before {
@@ -15586,7 +15622,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-intro][class~=layout-2] [class~=intro-text] {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-newsletter] [class~=newsletter-form] input[type=email] {
@@ -16057,7 +16093,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-product-cats][class~=layout-2] [class~=item-product-cat-content] [class~=product-cat-content-info] [class~=item-title] {
-  font-family: "Lato", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-intro][class~=layout-4] [class~=nav-tabs] {
@@ -16113,7 +16149,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-newsletter] [class~=newsletter-form] [class~=btn-submit]:before {
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-products] ul[class~=products-list] li [class~=product-content] {
@@ -16133,7 +16169,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .block-instagram a.instagram:after {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-product-filter] ul[class~=filter-items][class~=color] li span {
@@ -16353,7 +16389,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-feature] [class~=box] [class~=box-title-wrap] [class~=box-title] {
-  font-family: "Lato", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-banners][class~=layout-6] [class~=block-widget-banner] [class~=banner-wrapper-infor] [class~=content] [class~=title-banner] {
@@ -16542,7 +16578,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-product-cats][class~=layout-3] [class~=item-product-cat-content] [class~=product-cat-content-info] [class~=item-title] {
-  font-family: "Lato", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-instagram] a[class~=instagram] img {
@@ -17081,7 +17117,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .block-post-archives ul li:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-intro.layout-5 .intro-title,
@@ -17558,11 +17594,11 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .block-testimonial .testimonial-content .item .testimonial-excerpt {
-  font-family: "Cormorant Garamond", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-product-cats][class~=layout-5] [class~=item-product-cat-content] [class~=product-cat-content-info] [class~=item-title] {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-testimonial .testimonial-content .item .testimonial-excerpt {
@@ -18038,7 +18074,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=block-intro] [class~=intro-item] [class~=content] [class~=title] {
-  font-family: "Lato", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-feature][class~=layout-2] [class~=box] [class~=box-title-wrap] [class~=box-title] {
@@ -18683,7 +18719,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 [class~=block-testimonial][class~=layout-2] [class~=testimonial-content] [class~=item] [class~=testimonial-excerpt],
 .block-contact-info .info-item .item-tilte h2 {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .block-contact-info .info-item .item-tilte h2 {
@@ -19198,7 +19234,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 [class~=block-testimonial][class~=layout-2] [class~=testimonial-content] [class~=item] [class~=testimonial-info] [class~=testimonial-customer-name],
 [class~=block-testimonial] [class~=testimonial-content] [class~=item] [class~=testimonial-info] [class~=testimonial-customer-name] {
-  font-family: "Lato", Sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=block-product-filter] [class~=layout-slider] span[class~=jslider][class~=jslider_plastic] [class~=jslider-pointer] {
@@ -20534,11 +20570,11 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .wishlist-popup .wishlist-popup-inner .wishlist-popup-content .wishlist-popup-content-top:before {
-  font-family: feather;
+  font-family: 'Poppins', sans-serif;
 }
 
 .wishlist-items .wishlist-item .wishlist-item-remove span:before {
-  font-family: "feather";
+  font-family: 'Poppins', sans-serif;
 }
 
 .wishlist-popup .wishlist-popup-inner .wishlist-popup-content .wishlist-popup-content-top {
@@ -22445,7 +22481,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=wishlist-popup] [class~=wishlist-popup-inner] [class~=wishlist-popup-content] [class~=wishlist-popup-content-top] [class~=wishlist-popup-close]:after {
-  font-family: "feather";
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=wishlist-items] [class~=wishlist-item] [class~=btn-add-to-cart] a[class~=loading]:before {
@@ -22461,7 +22497,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=quickview-container] [class~=quickview-single-info] [class~=quantity] button:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=quickview-popup] [class~=quickview-container] [class~=quickview-single-info] [class~=quantity],
@@ -23028,7 +23064,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=single-product] [class~=quickview-single-info] [class~=quantity] button:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=single-product] [class~=quickview-single-info] [class~=single-add-to-cart-button][class~=button] {
@@ -23340,7 +23376,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=wishlist-items] [class~=wishlist-item] [class~=btn-add-to-cart] a[class~=added-to-cart]:before {
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=compare-popup] [class~=compare-popup-inner] [class~=compare-table] [class~=compare-table-inner] [class~=compare-table-items] table tbody tr td {
@@ -23536,7 +23572,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=wishlist-popup] [class~=wishlist-popup-inner] [class~=wishlist-popup-content] [class~=wishlist-popup-content-bot] [class~=wishlist-continue]:after {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=quickview-container] [class~=quickview-single-info] [class~=quantity] {
@@ -24604,7 +24640,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .products-topbar .products-sort .sort-toggle:after {
   content: "\43";
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
   font-size: 13px;
   padding-left: 5px;
   display: inline-block;
@@ -24955,7 +24991,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .products-list.grid .product-wapper .products-thumb .product-button .product-btn:before {
   content: "\e901";
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   line-height: 40px;
   color: #000;
@@ -25019,7 +25055,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 .products-list.grid .product-wapper .products-thumb .product-button .btn-add-to-cart .added-to-cart:before {
   content: "\4e";
   color: #cb8161;
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
 }
 
 .products-list.grid .product-wapper .products-thumb .product-button .btn-add-to-cart .added-to-cart:hover:before {
@@ -25125,7 +25161,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 .products-list.grid .product-wapper .products-content h3.product-title {
   font-size: 12px;
   text-transform: uppercase;
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-top: 2px;
   margin-bottom: 6px;
   letter-spacing: 1.5px;
@@ -25216,7 +25252,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .products-list.grid .product-wapper .btn-add-to-cart a:before {
   content: "\e901";
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
   line-height: 30px;
   color: #a9a8a8;
@@ -25262,7 +25298,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .products-list.grid .product-wapper .btn-add-to-cart a.added-to-cart:before {
   content: "\4e";
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
   text-indent: 0;
   text-transform: none;
 }
@@ -25479,7 +25515,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .products-list.list .product-wapper .products-content .btn-add-to-cart a.added-to-cart:before {
   content: "\4e";
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
   margin-right: 5px;
   vertical-align: bottom;
 }
@@ -25512,7 +25548,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
   left: 0;
   width: 100%;
   color: #000;
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
   font-size: 17px;
 }
 
@@ -25577,7 +25613,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
   -webkit-transition: all .1s ease;
   transition: all .1s ease;
   content: "\e913";
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
   margin: 0;
 }
 
@@ -25649,7 +25685,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
   transform: none;
   background: #000;
   color: #fff;
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
   text-align: center;
 }
 
@@ -25702,7 +25738,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
   line-height: 30px;
   background: hsla(0, 0%, 100%, .5);
   color: #000;
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
   text-align: center;
   top: calc(50% - 15px);
   opacity: 1;
@@ -25909,7 +25945,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .shop-details .buttons .add-to-cart-wrap .quantity button:before {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
   display: inline-block;
   font-size: 18px;
   font-weight: 900;
@@ -26021,7 +26057,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .shop-details .buttons .add-to-cart-wrap .btn-add-to-cart a.added-to-cart:before {
   content: "\4e";
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
   margin-right: 5px;
   vertical-align: bottom;
 }
@@ -26087,7 +26123,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 .shop-details .buttons .btn-wishlist .product-btn:before,
 .shop-details .buttons .btn-compare .product-btn:before {
   content: "\e901";
-  font-family: icomoon;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   width: 40px;
   height: 40px;
@@ -26192,7 +26228,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 .shop-details .product-tabs .nav-tabs .nav-item a {
-  font-family: Cormorant Garamond, serif;
+  font-family: 'Poppins', sans-serif;
   border: none;
   font-size: 24px;
   font-weight: 600;
@@ -26326,7 +26362,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .shop-details .product-tabs #review-form .comment-reply-title:before {
   content: "\e918";
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
   display: inline-block;
   font-size: 20px;
   margin-right: 15px;
@@ -26389,7 +26425,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 
 .shop-details .product-tabs #review-form .comment-form-rating .stars span a:after {
   content: "\f005";
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-weight: unset;
   text-indent: 0;
@@ -26561,7 +26597,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 .shop-cart .cart-items tbody tr td.product-remove a:before {
   display: inline-block;
   content: "\ea02";
-  font-family: feather;
+  font-family: 'Poppins', sans-serif;
   font-size: 10px;
   color: #000 !important;
   width: 16px;
@@ -26780,7 +26816,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 .shop-cart-empty .return-to-shop .button:before {
   content: "\23";
   font-size: 18px;
-  font-family: ElegantIcons;
+  font-family: 'Poppins', sans-serif;
   margin: 0 5px 0 0;
   position: relative;
   top: 3px;
@@ -27530,7 +27566,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=post-details] [class~=post-content] blockquote h2 {
-  font-family: Lato, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .post-details .prev-next-post .next-post,
@@ -28173,7 +28209,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=post-details] [class~=comments-area] [class~=comments-list] [class~=comment-item] [class~=comment-reply-link]:before {
-  font-family: FontAwesome;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=post-details] [class~=comments-area] [class~=comment-form] [class~=form-group] textarea[class~=form-control] {
@@ -28435,7 +28471,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=page-login-register] [class~=box-form-login] h2:before {
-  font-family: wpbingofont;
+  font-family: 'Poppins', sans-serif;
 }
 
 [class~=page-login-register] [class~=box-form-login] h2 {
@@ -29842,7 +29878,7 @@ body[class~=home][class~=title-6] [class~=block-newsletter] [class~=newsletter-t
 }
 
 [class~=page-404] [class~=content-page-404] [class~=button]:after {
-  font-family: eleganticons;
+  font-family: 'Poppins', sans-serif;
 }
 
 .page-404 .content-page-404 {
