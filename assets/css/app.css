@@ -159,7 +159,7 @@ body[class~=home] [class~=section] [class~=block-title][class~=title-underline] 
 }
 
 body i[class~=slick-arrow][class~=fa-angle-left]:before {
-  content: "";
+  content: "<";
 }
 
 body {
@@ -323,7 +323,7 @@ body[class~=home][class~=title-3] [class~=section] [class~=block-title] [class~=
 }
 
 body i[class~=slick-arrow][class~=fa-angle-right]:before {
-  content: "";
+  content: ">";
 }
 
 input[type=email] {
@@ -5930,7 +5930,8 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-header] [class~=header-mobile] [class~=navbar-toggle]:before {
-  content: "";
+  content: url(../../media/hamburger.png);
+  width:20px;
 }
 
 [class~=site-header][class~=header-v2] [class~=site-6193] {
